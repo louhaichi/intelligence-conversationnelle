@@ -15,6 +15,7 @@ pip install flask
 pip install werkzeug=2.0.1
 pip install pyaudio=0.2.11
 ```
+create a folder "audio-chunks" inside folder uploads
 
 ## Usage
 
